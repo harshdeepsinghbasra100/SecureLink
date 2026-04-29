@@ -2,15 +2,15 @@
 
 # Overview
 This project is a secure communication system built using Java. 
-It uses AES encryption and socket programming to enable safe data transmission between client and server over a network.
+/n It uses AES encryption and socket programming to enable safe data transmission between client and server over a network.
 
 # Features
-Encrypted messaging (AES)
-GUI-based client (Java Swing)
-Multi-client server handling
-LAN communication support
-Logging and monitoring
-Intrusion Detection System
+Encrypted messaging (AES),
+GUI-based client (Java Swing),
+Multi-client server handling,
+LAN communication support,
+Logging and monitoring,
+Intrusion Detection System.
 
 # Technologies Used
 Java,
