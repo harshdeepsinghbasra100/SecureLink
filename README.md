@@ -13,10 +13,10 @@ Logging and monitoring
 Intrusion Detection System
 
 # Technologies Used
-Java
-Java Swing
-Socket Programming
-AES Encryption
+Java,
+Java Swing,
+Socket Programming,
+AES Encryption.
 
 # How to Run
 
